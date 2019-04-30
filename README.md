@@ -72,14 +72,16 @@ $ django-admin  startproject Epicmail .
 ```
 Note the trailing '.' character
 
- Then change directory 
- ```
- $ cd Epicmail
-```
-
 After this go ahead and create the application
 ```
-$ django-admin  startapp the_epicmail 
+$ django-admin  startapp Emails 
+```
+
+Admin log in credentials are
+```
+Username: derek/sentongo
+Email: admin@epicmail.com/developer@epicmail.com
+Password: queens33
 ```
 
  
